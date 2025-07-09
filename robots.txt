@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://guyana2025.github.io/vakilduniya-seo/sitemap.xml
+
